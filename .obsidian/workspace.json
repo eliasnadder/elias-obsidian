@@ -4,37 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "540b094d3f7e60c6",
+        "id": "acc85d3d91e5f403",
         "type": "tabs",
         "children": [
           {
-            "id": "5c52e59595882c8a",
+            "id": "b45fbb50d1fb68bd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "NN/Lec-1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
-            }
-          }
-        ]
-      },
-      {
-        "id": "ad36cb1c20a3c6b3",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "d4f8ab5825a8ad10",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Lec-1"
             }
           }
         ]
@@ -110,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "NN/Lec-1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "title": "Backlinks for Lec-1"
             }
           },
           {
@@ -176,6 +160,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -185,8 +170,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "5c52e59595882c8a",
+  "active": "8db06bc5cf287400",
   "lastOpenFiles": [
-    "Welcome.md"
+    "Welcome.md",
+    "NN/Lec-1.md",
+    "create a link.md",
+    "Linux.md",
+    "Smart algorithm/Lec-1.md",
+    "NN",
+    "Smart algorithm"
   ]
 }
