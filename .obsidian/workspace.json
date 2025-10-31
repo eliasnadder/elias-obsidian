@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Lec-1"
             }
+          },
+          {
+            "id": "a354436039b53414",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Simplified Cost function for Logistic regression.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Simplified Cost function for Logistic regression"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -160,6 +175,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -170,11 +186,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "b45fbb50d1fb68bd",
+  "active": "a354436039b53414",
   "lastOpenFiles": [
+    "NN/Lec-1.md",
+    "Simplified Cost function for Logistic regression.md",
+    "ML",
     "SIMS App.md",
     "Welcome.md",
-    "NN/Lec-1.md",
     "create a link.md",
     "Linux.md",
     "Smart algorithm/Lec-1.md",
