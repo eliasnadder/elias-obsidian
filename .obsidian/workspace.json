@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Simplified Cost function for Logistic regression.md",
+                "file": "ML/Simplified Cost function for Logistic regression.md",
                 "mode": "source",
                 "source": false
               },
@@ -186,10 +186,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "a354436039b53414",
+  "active": "8db06bc5cf287400",
   "lastOpenFiles": [
     "NN/Lec-1.md",
-    "Simplified Cost function for Logistic regression.md",
+    "ML/Simplified Cost function for Logistic regression.md",
     "ML",
     "SIMS App.md",
     "Welcome.md",

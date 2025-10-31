@@ -6,8 +6,7 @@ L(f_{\mathbf{w},b}(\mathbf{x}^{(i)}), y^{(i)}) =
 \end{cases}
 $$
 Given a predication  $f_{\mathbf{w},b}(\mathbf{x}^{(i)})$ and the target $\mathbf{y}^{(i)}$ 
-### $L(f_{\mathbf{w},b}(\mathbf{x}^{(i)}), y^{(i)}) = -\mathbf{y}^{(i)}log(f_{\mathbf{w},b}(\mathbf{x}^{(i)})) - (1-\mathbf{y}^{(i)})log(1-f_{\mathbf{w},b}(\mathbf{x}^{(i)}))$    
- 
+### $$L(f_{\mathbf{w},b}(\mathbf{x}^{(i)}), y^{(i)}) = -\mathbf{y}^{(i)}log(f_{\mathbf{w},b}(\mathbf{x}^{(i)})) - (1-\mathbf{y}^{(i)})log(1-f_{\mathbf{w},b}(\mathbf{x}^{(i)}))$$
 - Completely equivalent to this more complex formula up here
 
 ## Why?? 
@@ -18,3 +17,4 @@ Given a predication  $f_{\mathbf{w},b}(\mathbf{x}^{(i)})$ and the target $\mathb
 -  $L(f_{\mathbf{w},b}(\mathbf{x}^{(i)}), y^{(i)}) = -1.log(1-f_{\mathbf{w},b}(\mathbf{x}^{(i)}))=-log(1-f_{\mathbf{w},b}(\mathbf{x}^{(i)}))$ 
 
 ## Cost function 
+$$J(\vec{w},b)=\frac{1}{m} \sum_{i=0}^{m}L(f_{\mathbf{w},b}(\mathbf{x}^{(i)}), y^{(i)})$$$$J(\vec{w},b)=-\frac{1}{m} \sum_{i=0}^{m}[\mathbf{y}^{(i)}log(f_{\mathbf{w},b}(\mathbf{x}^{(i)})) - (1-\mathbf{y}^{(i)})log(1-f_{\mathbf{w},b}(\mathbf{x}^{(i)}))]$$
