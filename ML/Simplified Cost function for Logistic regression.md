@@ -1,6 +1,6 @@
 #### $$
 L(f_{\mathbf{w},b}(\mathbf{x}^{(i)}), y^{(i)}) =
-\begin{cases} ^3
+\begin{cases}
 - \log(f_{\mathbf{w},b}(\mathbf{x}^{(i)})), & \text{if } y^{(i)} = 1 \\
 - \log(1 - f_{\mathbf{w},b}(\mathbf{x}^{(i)})), & \text{if } y^{(i)} = 0
 \end{cases}
