@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ee1c6bc709b37bb2",
+        "id": "28bf850fac5d375a",
         "type": "tabs",
         "children": [
           {
-            "id": "a36aa30a83bc3c78",
+            "id": "df6660b8787d369e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/Simplified Cost function for Logistic regression.md",
+                "file": "Machine Learning - DeepLearning/II- Advanced Learning Algorithms/Week 1 - Neural Network/1- Neural networks intuition/1- Neurons and the brain.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Simplified Cost function for Logistic regression"
+              "title": "1- Neurons and the brain"
             }
           }
         ]
@@ -136,9 +136,19 @@
           "icon": "lucide-list",
           "title": "Outline"
         }
+      },
+      {
+        "id": "f674db37b9309968",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
       }
     ],
-    "currentTab": 0
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -150,15 +160,58 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "a36aa30a83bc3c78",
+  "active": "df6660b8787d369e",
   "lastOpenFiles": [
-    "ML/Simplified Cost function for Logistic regression.md",
-    "/ML/Simplified Cost function for Logistic regression.md",
-    "ML",
-    "/ML",
-    "SIMS App.md"
+    "Machine Learning - DeepLearning/imgs/II- Adavnced learning algorithms/Notes_251104_221751.jpg",
+    "Machine Learning - DeepLearning/imgs/II- Adavnced learning algorithms",
+    "Untitled.canvas",
+    "Untitled.md",
+    "Machine Learning - DeepLearning/II- Advanced Learning Algorithms/Week 1 - Neural Network/1- Neural networks intuition/1- Neurons and the brain.md",
+    "Machine Learning - DeepLearning/imgs/I- Supervised Learning/Week 3/Screenshot 2025-11-02 153217.png",
+    "Machine Learning - DeepLearning/imgs/I- Supervised Learning/Week 3/Screenshot 2025-11-02 142404.png",
+    "Machine Learning - DeepLearning/imgs/I- Supervised Learning/Week 3/Screenshot 2025-11-02 142352.png",
+    "Machine Learning - DeepLearning/imgs/I- Supervised Learning/Week 3/Screenshot 2025-11-02 120549.png",
+    "Machine Learning - DeepLearning/imgs/I- Supervised Learning/Week 3/Screenshot 2025-11-02 120540.png",
+    "Machine Learning - DeepLearning/imgs/I- Supervised Learning/Week 3/Screenshot 2025-11-02 120523.png",
+    "Machine Learning - DeepLearning/imgs/I- Supervised Learning/Week 3/Screenshot 2025-11-01 145650.png",
+    "Machine Learning - DeepLearning/imgs/I- Supervised Learning/Week 3/Screenshot 2025-11-01 145641.png",
+    "Machine Learning - DeepLearning/imgs/I- Supervised Learning/Week 3/Screenshot 2025-11-01 145629.png",
+    "Machine Learning - DeepLearning/I- Supervised Learning/Week 3/5- The problem of overfitting/5- Regularized logistic regression.md",
+    "Machine Learning - DeepLearning/I- Supervised Learning/Week 3/5- The problem of overfitting/4- Regularized linear regression.md",
+    "Machine Learning - DeepLearning/I- Supervised Learning/Week 3/5- The problem of overfitting/3- Cost function with regularization.md",
+    "Machine Learning - DeepLearning/I- Supervised Learning/Week 3/5- The problem of overfitting/2- Addressing overfitting.md",
+    "Machine Learning - DeepLearning/I- Supervised Learning/Week 3/5- The problem of overfitting/1- The problem of overfitting.md",
+    "Machine Learning - DeepLearning/I- Supervised Learning/Week 3/4- Gradient descent/1- Gradient Descent.md",
+    "/Machine Learning - DeepLearning/imgs/I- Supervised Learning/Week 3/Screenshot 2025-11-02 153217.png",
+    "/Machine Learning - DeepLearning/II- Advanced Learning Algorithms/Week 1 - Neural Network/1- Neural networks intuition/1- Neurons and the brain.md",
+    "/Machine Learning - DeepLearning/I- Supervised Learning/Week 3/5- The problem of overfitting/5- Regularized logistic regression.md",
+    "/Machine Learning - DeepLearning/I- Supervised Learning/Week 3/5- The problem of overfitting/4- Regularized linear regression.md",
+    "/Machine Learning - DeepLearning/I- Supervised Learning/Week 3/5- The problem of overfitting/3- Cost function with regularization.md",
+    "/Machine Learning - DeepLearning/I- Supervised Learning/Week 3/5- The problem of overfitting/2- Addressing overfitting.md",
+    "/Machine Learning - DeepLearning/I- Supervised Learning/Week 3/5- The problem of overfitting/1- The problem of overfitting.md",
+    "/Machine Learning - DeepLearning/I- Supervised Learning/Week 3/4- Gradient descent/1- Gradient Descent.md",
+    "Machine Learning - DeepLearning/I- Supervised Learning/Week 3/3- Cost function for logistic regression/1- Simplified Cost function for Logistic regression.md",
+    "/Linux.md",
+    "/Machine Learning - DeepLearning/I- Supervised Learning/Week 3/3- Cost function for logistic regression/1- Simplified Cost function for Logistic regression.md",
+    "Machine Learning - DeepLearning/imgs/I- Supervised Learning/Week 3",
+    "Machine Learning - DeepLearning/II- Advanced Learning Algorithms/Week 1 - Neural Network/1- Neural networks intuition",
+    "Machine Learning - DeepLearning/I- Supervised Learning/Week 3/5- The problem of overfitting",
+    "Machine Learning - DeepLearning/I- Supervised Learning/Week 3/4- Gradient descent",
+    "Machine Learning - DeepLearning/I- Supervised Learning/Week 3/3- Cost function for logistic regression",
+    "Machine Learning - DeepLearning/imgs/I- Supervised Learning",
+    "Machine Learning - DeepLearning/II- Advanced Learning Algorithms/Week 1 - Neural Network",
+    "Machine Learning - DeepLearning/I- Supervised Learning/Week 3",
+    "Machine Learning - DeepLearning/imgs",
+    "ML/I- Supervised Learning/Week 3/5- The problem of overfitting/5- Regularized logistic regression.md",
+    "ML/I- Supervised Learning/Week 3/5- The problem of overfitting/4- Regularized linear regression.md",
+    "ML/I- Supervised Learning/Week 3/5- The problem of overfitting/3- Cost function with regularization.md",
+    "ML/I- Supervised Learning/Week 3/5- The problem of overfitting/2- Addressing overfitting.md",
+    "ML/I- Supervised Learning/Week 3/5- The problem of overfitting/1- The problem of overfitting.md",
+    "ML/I- Supervised Learning/Week 3/4- Gradient descent/1- Gradient Descent.md",
+    "/ML/I- Supervised Learning/Week 3/5- The problem of overfitting/5- Regularized logistic regression.md"
   ]
 }
