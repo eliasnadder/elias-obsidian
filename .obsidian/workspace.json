@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning - DeepLearning/II- Advanced Learning Algorithms/Week 1 - Neural Network/1- Neural networks intuition/2- Demand Prediction.md",
+                "file": "Linux/Lec 2 - Basic command.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2- Demand Prediction"
+              "title": "Lec 2 - Basic command"
             }
           }
         ]
@@ -175,9 +175,13 @@
   },
   "active": "6e6513632058cc7d",
   "lastOpenFiles": [
-    "Machine Learning - DeepLearning/II- Advanced Learning Algorithms/Week 1 - Neural Network/1- Neural networks intuition/1- Neurons and the brain.md",
+    "Linux/Lec 1 - Linux FHS (File system Hierarchy Standard).md",
+    "Linux/Lec 2 - Basic command.md",
+    "Linux/imgs/Picture1.png",
+    "Linux/imgs",
+    "Linux/New Folder",
     "Machine Learning - DeepLearning/II- Advanced Learning Algorithms/Week 1 - Neural Network/1- Neural networks intuition/2- Demand Prediction.md",
-    "Linux/Lec 1.md",
+    "Machine Learning - DeepLearning/II- Advanced Learning Algorithms/Week 1 - Neural Network/1- Neural networks intuition/1- Neurons and the brain.md",
     "Smart algorithm/Lec-1.md",
     "Linux.md",
     "Linux/Untitled",
@@ -202,15 +206,12 @@
     "Machine Learning - DeepLearning/II- Advanced Learning Algorithms/Week 1 - Neural Network/1- Neural networks intuition",
     "Machine Learning - DeepLearning/II- Advanced Learning Algorithms/Week 1 - Neural Network",
     "Machine Learning - DeepLearning/II- Advanced Learning Algorithms",
-    "Machine Learning - DeepLearning/imgs/I- Supervised Learning/Week 3",
-    "Machine Learning - DeepLearning/imgs/I- Supervised Learning",
     "Machine Learning - DeepLearning/I- Supervised Learning/Week 3/5- The problem of overfitting/4- Regularized linear regression.md",
     "Machine Learning - DeepLearning/I- Supervised Learning/Week 3/3- Cost function for logistic regression/1- Simplified Cost function for Logistic regression.md",
     "Machine Learning - DeepLearning/I- Supervised Learning/Week 3/5- The problem of overfitting/1- The problem of overfitting.md",
     "Machine Learning - DeepLearning/I- Supervised Learning/Week 3/5- The problem of overfitting/3- Cost function with regularization.md",
     "Machine Learning - DeepLearning/I- Supervised Learning/Week 3/4- Gradient descent/1- Gradient Descent.md",
     "Machine Learning - DeepLearning/I- Supervised Learning/Week 3/5- The problem of overfitting/2- Addressing overfitting.md",
-    "Machine Learning - DeepLearning/imgs/I- Supervised Learning/Week 3/Screenshot 2025-11-02 153217.png",
     "NN/Lec-1.md",
     "hi.md",
     "SIMS App.md",
