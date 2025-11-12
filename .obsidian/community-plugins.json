@@ -2,5 +2,7 @@
   "obsidian-git",
   "table-editor-obsidian",
   "obsidian-tasks-plugin",
-  "templater-obsidian"
+  "templater-obsidian",
+  "obsidian-importer",
+  "obsidian-icon-folder"
 ]
