@@ -1,7 +1,7 @@
 The fundamental building block of most modern neural networks is a layer of neurons. 
 
 ## Hidden layer in depth
-Here's the example we had from the [[2- Demand Prediction|demand  prediction example]] where we had four input features that were set to this layer of three neurons in the hidden layer that then sends its output to this output layer with just one neuron. 
+Here's the example we had from the [[2- Demand Prediction|demand prediction example]] where we had four input features that were set to this layer of three neurons in the hidden layer that then sends its output to this output layer with just one neuron. 
 
 Let's zoom in to the hidden layer to look at its computations. This hidden layer inputs four numbers and these four numbers are inputs to each of three neurons. Each of these three neurons is just implementing a little logistic regression unit or a little bit logistic regression function. 
 
@@ -25,7 +25,14 @@ $$a_3=g(\vec{w_3}.\vec{x}+b_3)$$
 
 ### II- Label the hidden layers
 In this example, these three neurons output 0.3, 0.7, and 0.2, and this vector of three numbers becomes the vector of activation values a, that is then passed to the final output layer of this neural network. 
-$$\vec{a}=[0.3,0.7,0.2]$$
+$$
+\vec{a} =
+\begin{bmatrix}
+0.3 \\
+0.7 \\
+0.2 \\
+\end{bmatrix}
+$$
 Now, when you build neural networks with multiple layers, it'll be useful to give the layers different numbers. 
 By convention, 
 - this hidden layer is called layer 1 of the neural network 
