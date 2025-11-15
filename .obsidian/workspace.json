@@ -22,35 +22,21 @@
             }
           },
           {
-            "id": "92bf913c8da6aff1",
+            "id": "24525aa1eb95be92",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning - DeepLearning/II- Advanced Learning Algorithms/Week 1 - Neural Network/2- Neural Network model/2- More complex neural networks.md",
+                "file": "Machine Learning - DeepLearning/II- Advanced Learning Algorithms/Week 1 - Neural Network/3- TensorFlow implementation/I- Inference in code.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2- More complex neural networks"
-            }
-          },
-          {
-            "id": "6e6513632058cc7d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Machine Learning - DeepLearning/II- Advanced Learning Algorithms/Week 1 - Neural Network/2- Neural Network model/3- Inference; making predictions (forward propagation).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "3- Inference; making predictions (forward propagation)"
+              "title": "I- Inference in code"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -204,52 +190,52 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "6e6513632058cc7d",
+  "active": "24525aa1eb95be92",
   "lastOpenFiles": [
-    "Machine Learning - DeepLearning/II- Advanced Learning Algorithms/Week 1 - Neural Network/2- Neural Network model/2- More complex neural networks.md",
-    "Machine Learning - DeepLearning/II- Advanced Learning Algorithms/Week 1 - Neural Network/2- Neural Network model/3- Inference; making predictions (forward propagation).md",
     "Machine Learning - DeepLearning/II- Advanced Learning Algorithms/Week 1 - Neural Network/2- Neural Network model/1- Neural network layer.md",
+    "Machine Learning - DeepLearning/II- Advanced Learning Algorithms/Week 1 - Neural Network/2- Neural Network model/3- Inference; making predictions (forward propagation).md",
+    "Machine Learning - DeepLearning/Files/II- Advanced Learning Algorithms/C2_W1_Lab01_… (5) - JupyterLab.pdf",
+    "Machine Learning - DeepLearning/II- Advanced Learning Algorithms/Week 1 - Neural Network/3- TensorFlow implementation/I- Inference in code.md",
+    "Machine Learning - DeepLearning/Files/II- Advanced Learning Algorithms",
+    "Machine Learning - DeepLearning/Files/New folder",
+    "Machine Learning - DeepLearning/Files/Coursera Advanced Learning Algorithms Extras 2022-12/w4/images/9.png",
+    "Machine Learning - DeepLearning/Files/Coursera Advanced Learning Algorithms Extras 2022-12/w4/images/8.png",
+    "Machine Learning - DeepLearning/Files/Coursera Advanced Learning Algorithms Extras 2022-12/w4/images/7.png",
+    "Machine Learning - DeepLearning/Files/Coursera Advanced Learning Algorithms Extras 2022-12/w4/images/6.png",
+    "Machine Learning - DeepLearning/Files/Coursera Advanced Learning Algorithms Extras 2022-12/w4/images/5.png",
+    "Machine Learning - DeepLearning/Files/Coursera Advanced Learning Algorithms Extras 2022-12/w4/images/4.png",
+    "Machine Learning - DeepLearning/Files/Coursera Advanced Learning Algorithms Extras 2022-12/w4/images/3.png",
+    "Machine Learning - DeepLearning/Files/Coursera Advanced Learning Algorithms Extras 2022-12/w4/images/1.png",
+    "Machine Learning - DeepLearning/Files/Coursera Advanced Learning Algorithms Extras 2022-12/w4/images/2.png",
+    "Machine Learning - DeepLearning/Files/Coursera Advanced Learning Algorithms Extras 2022-12/w4/images/0.png",
+    "Machine Learning - DeepLearning/Files/Coursera Advanced Learning Algorithms Extras 2022-12/w4/images",
+    "Machine Learning - DeepLearning/Files/Coursera Advanced Learning Algorithms Extras 2022-12/w4/assignment/images",
+    "Machine Learning - DeepLearning/Files/Coursera Advanced Learning Algorithms Extras 2022-12/w4/assignment/utils.py",
+    "Machine Learning - DeepLearning/Files/Coursera Advanced Learning Algorithms Extras 2022-12/w4/assignment/public_tests.py",
+    "Machine Learning - DeepLearning/Files/Coursera Advanced Learning Algorithms Extras 2022-12/w4/assignment/C2_W4_Decision_Tree_with_Markdown.ipynb",
+    "Machine Learning - DeepLearning/Files/Coursera Advanced Learning Algorithms Extras 2022-12/w4/assignment",
+    "Machine Learning - DeepLearning/Files/Coursera Advanced Learning Algorithms Extras 2022-12/w4/utils.py",
+    "Machine Learning - DeepLearning/II- Advanced Learning Algorithms/Week 1 - Neural Network/2- Neural Network model/2- More complex neural networks.md",
     "Machine Learning - DeepLearning/II- Advanced Learning Algorithms/Week 1 - Neural Network/1- Neural networks intuition/2- Demand Prediction.md",
-    "Machine Learning - DeepLearning/imgs/II- Adavnced learning algorithms/Screenshot 2025-11-14 221946.png",
-    "Machine Learning - DeepLearning/imgs/II- Adavnced learning algorithms/Screenshot 2025-11-14 202416.png",
     "Lec 2.md",
-    "Machine Learning - DeepLearning/II- Advanced Learning Algorithms/Week 1 - Neural Network/2- Neural Network model",
-    "Machine Learning - DeepLearning/II- Advanced Learning Algorithms/Week 1 - Neural Network/1- Neural networks intuition/Untitled",
-    "Machine Learning - DeepLearning/imgs/II- Adavnced learning algorithms/Screenshot 2025-11-12 232730.png",
-    "Machine Learning - DeepLearning/imgs/II- Adavnced learning algorithms/Screenshot 2025-11-12 232618.png",
-    "Machine Learning - DeepLearning/imgs/II- Adavnced learning algorithms/Screenshot 2025-11-12 232523.png",
     "Machine Learning - DeepLearning/II- Advanced Learning Algorithms/Week 1 - Neural Network/1- Neural networks intuition/3- Example- Recognizing Images.md",
-    "Machine Learning - DeepLearning/imgs/II- Adavnced learning algorithms/Screenshot 2025-11-12 220640.png",
-    "Machine Learning - DeepLearning/imgs/II- Adavnced learning algorithms/Screenshot 2025-11-12 220557.png",
-    "Machine Learning - DeepLearning/imgs/II- Adavnced learning algorithms/Screenshot 2025-11-12 220216.png",
-    "Machine Learning - DeepLearning/imgs/II- Adavnced learning algorithms/Screenshot 2025-11-12 220141.png",
-    "Machine Learning - DeepLearning/imgs/II- Adavnced learning algorithms/Screenshot 2025-11-12 220051.png",
     "Linux/2. Text editing/Text editors and VI editor.md",
     "NN/Lec 2.md",
     "Smart algorithm/Lec-1.md",
     "Smart algorithm/Lec 2.md",
     "Linux/1. FHS and Basic Commands/Lec 3 - ls in details.md",
-    "Linux/2. Text editing",
-    "Linux/1. FHS and Basic Commands",
     "Linux/1. FHS and Basic Commands/Lec 2 - Basic command.md",
     "Linux/1. FHS and Basic Commands/Lec 1 - Linux FHS (File system Hierarchy Standard).md",
-    "Linux/imgs",
-    "Linux/New Folder",
     "Machine Learning - DeepLearning/II- Advanced Learning Algorithms/Week 1 - Neural Network/1- Neural networks intuition/1- Neurons and the brain.md",
     "Linux.md",
-    "Linux",
     "Welcome.md",
     "Untitled.md",
-    "Imgs",
-    "New folder",
-    "Machine Learning - DeepLearning/imgs/II- Adavnced learning algorithms",
     "Machine Learning - DeepLearning/I- Supervised Learning/Week 3/5- The problem of overfitting/5- Regularized logistic regression.md",
     "Machine Learning - DeepLearning/I- Supervised Learning/Week 3/5- The problem of overfitting/4- Regularized linear regression.md",
     "Machine Learning - DeepLearning/I- Supervised Learning/Week 3/3- Cost function for logistic regression/1- Simplified Cost function for Logistic regression.md",
     "Machine Learning - DeepLearning/I- Supervised Learning/Week 3/5- The problem of overfitting/1- The problem of overfitting.md",
     "Machine Learning - DeepLearning/I- Supervised Learning/Week 3/5- The problem of overfitting/3- Cost function with regularization.md",
     "Machine Learning - DeepLearning/I- Supervised Learning/Week 3/4- Gradient descent/1- Gradient Descent.md",
-    "Machine Learning - DeepLearning/I- Supervised Learning/Week 3/5- The problem of overfitting/2- Addressing overfitting.md",
-    "NN/Lec-1.md"
+    "Machine Learning - DeepLearning/I- Supervised Learning/Week 3/5- The problem of overfitting/2- Addressing overfitting.md"
   ]
 }
