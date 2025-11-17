@@ -1,9 +1,9 @@
-## A- Intro
+# A- Intro
 TensorFlow is one of the leading frameworks to implementing deep learning algorithms. 
 One of the remarkable things about neural networks is the same algorithm can be applied to so many different applications. 
 ****
-## B- Real example
-I'm going to use another example to illustrate inference. Sometimes I do like to roast coffee beans myself at home. My favorite is actually Colombian coffee beans. 
+# B- Real example
+Roast coffee beans at home.
 **?- Can the learning algorithm help optimize the quality of the beans you get from a roasting process like this?** 
 When you're roasting coffee, two parameters you get to control are:
 - the temperature at which you're heating up the raw coffee beans to turn them into nicely roasted coffee beans, 
@@ -12,7 +12,7 @@ When you're roasting coffee, two parameters you get to control are:
 ![[Screenshot 2025-11-15 145719.png]]
 In this slightly simplified example, 
 - we've created the datasets of different temperatures and different durations, 
-- as well as labels showing whether the coffee you roasted is good-tasting coffee. Where cross here, the positive cross y equals 1 corresponds to good coffee, and all the negative cross corresponds to bad coffee. 
+- as well as labels showing whether the coffee you roasted is good-tasting coffee. Where cross ❌ here, the positive cross y equals 1 corresponds to good coffee, and all the negative cross ⭕ corresponds to bad coffee. 
 
 It looks like a reasonable way to think of this dataset is 
 1. if you cook it at too lower temperature, it doesn't get roasted and it ends up undercooked. 
@@ -22,20 +22,20 @@ It looks like a reasonable way to think of this dataset is
 
 ![[Screenshot 2025-11-15 145942.png]]
 ***
-## C- Implement Neural Network 
+## 1- Implement Neural Network 
 Even though this example is a simplified one for the purpose of illustration, there have actually been serious projects using machine learning to optimize coffee roasting as well. 
 
 The task is given a feature vector $\vec{x}$ with both temperature and duration, say 
 $$
 \vec{x}=
 \begin{bmatrix}
-temp=200 \\
-duration=17^o 
+temp=17^o \\
+duration=200 
 \end{bmatrix}
 $$
 **?- How can we do inference in a neural network to get it to tell us whether or not this temperature and duration setting will result in good coffee or not?** 
 
-### 1- Use `tensorflow` library
+### A- Use `tensorflow` library
 It looks like this. We're going to set x to be an array of two numbers. The input features 200 degrees and 17 minutes. 
 #### 1- Init inputs vector
 ```python
@@ -89,7 +89,7 @@ else:
 
 That's how you do inference in the neural network using TensorFlow. But these are the key steps for forward propagation in how you compute a1 and a2 and optionally threshold a2. 
 ***
-## D- Another Example: [[3- Inference; making predictions (forward propagation)|Handwritten digit classification problem]] 
+# D- Another Example: [[3- Inference; making predictions (forward propagation)|Handwritten digit classification problem]] 
 In this example, x is a list of the pixel intensity values. 
 1. Init `x` array of inputs
 ```python
@@ -121,5 +121,5 @@ else:
 	yhat = 0
 ```
 
-## The full code
+# The full code
 ![[C2_W1_Lab01_… (5) - JupyterLab.pdf|Full Code]]
