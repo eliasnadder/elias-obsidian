@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/3- Command line intreface/1- Command line interface.md",
+                "file": "Machine Learning - DeepLearning/II- Advanced Learning Algorithms/Week 1 - Neural Network/3- TensorFlow implementation/I- Inference in code.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1- Command line interface"
+              "title": "I- Inference in code"
             }
           },
           {
@@ -205,8 +205,9 @@
   },
   "active": "24525aa1eb95be92",
   "lastOpenFiles": [
-    "Machine Learning - DeepLearning/II- Advanced Learning Algorithms/Week 1 - Neural Network/3- TensorFlow implementation/I- Inference in code.md",
+    "Machine Learning - DeepLearning/Files/II- Advanced Learning Algorithms/TensorFlow.i… (6) - JupyterLab.pdf",
     "Linux/3- Command line intreface/1- Command line interface.md",
+    "Machine Learning - DeepLearning/II- Advanced Learning Algorithms/Week 1 - Neural Network/3- TensorFlow implementation/I- Inference in code.md",
     "Linux/3- Command line intreface",
     "Machine Learning - DeepLearning/II- Advanced Learning Algorithms/Week 1 - Neural Network/2- Neural Network model/3- Inference; making predictions (forward propagation).md",
     "Machine Learning - DeepLearning/II- Advanced Learning Algorithms/Week 1 - Neural Network/2- Neural Network model/1- Neural network layer.md",
@@ -249,7 +250,6 @@
     "Machine Learning - DeepLearning/I- Supervised Learning/Week 3/3- Cost function for logistic regression/1- Simplified Cost function for Logistic regression.md",
     "Machine Learning - DeepLearning/I- Supervised Learning/Week 3/5- The problem of overfitting/1- The problem of overfitting.md",
     "Machine Learning - DeepLearning/I- Supervised Learning/Week 3/5- The problem of overfitting/3- Cost function with regularization.md",
-    "Machine Learning - DeepLearning/I- Supervised Learning/Week 3/4- Gradient descent/1- Gradient Descent.md",
-    "Machine Learning - DeepLearning/I- Supervised Learning/Week 3/5- The problem of overfitting/2- Addressing overfitting.md"
+    "Machine Learning - DeepLearning/I- Supervised Learning/Week 3/4- Gradient descent/1- Gradient Descent.md"
   ]
 }

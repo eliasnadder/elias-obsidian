@@ -45,7 +45,7 @@ x = np.array([200.0,17.0])
 ##### A- Create the first hidden layers
 create `layer_1` as this first hidden layer in the neural network, as `Dense` 
 ```python
-layer_1 = Dense(units=3, activations='sigmoid')
+layer_1 = Dense(units=3, activation='sigmoid')
 ```
 - `units 3`, that means three units or three hidden units in this layer 
 - using as the activation function, the sigmoid function. 
@@ -73,7 +73,7 @@ For the second layer, layer 2, would be`dense`. 
 - It has one unit and again to sigmoid activation function
 - and compute `a2` by applying this `layer_2` function to the activation values from `layer_1` to `a1`.
 ```python
-layer_2 = Dense(units=1, activations='sigmoid')
+layer_2 = Dense(units=1, activation='sigmoid')
 a2 = layer_2(a1)
 ```
 That will give you the value of `a2`, which for the sake of illustration is maybe $\vec{a}^{[2]}=0.8$. 
@@ -98,18 +98,18 @@ x = np.array([[0.0,...245,...240...0]])
 
 2. Then to initialize and carry out one step of [[3- Inference; making predictions (forward propagation)|forward propagation]], `layer_1` is a dense layer with 25 units and the sigmoid activation function. then compute `a1` equals the `layer_1` function applied to `x`.
 ```python
-layer_1 = Dense(units=25, activations='sigmoid')
+layer_1 = Dense(units=25, activation='sigmoid')
 a1 = layer_1(x)
 ```
 
 3. For the second layer, similarly, you set up `layer_2` as follows, and then computes `a2` as `layer_2` applied to `a1`. 
 ```python
-layer_2 = Dense(units=15, activations='sigmoid')
+layer_2 = Dense(units=15, activation='sigmoid')
 a2 = layer_2(a1)
 ```
 3. Then finally, Layer 3 is the third and final dense layer. 
 ```python
-layer_3 = Dense(units=1, activations='sigmoid')
+layer_3 = Dense(units=1, activation='sigmoid')
 a3 = layer_3(a2)
 ```
 
@@ -120,6 +120,9 @@ if a3>= 0.5:
 else:
 	yhat = 0
 ```
-
+***
+# Example code
+![[TensorFlow.i… (6) - JupyterLab.pdf]]
+***
 # The full code
 ![[C2_W1_Lab01_… (5) - JupyterLab.pdf|Full Code]]
