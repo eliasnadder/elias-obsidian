@@ -1,7 +1,7 @@
 `/` 
 - in linux like `C:/` in Windows
 - contains file system
-#### Note
+>[!NOTE] Note
 > Two things in linux we call as **root**
 > - **/** file system
 > - **super user:** that has all permission 

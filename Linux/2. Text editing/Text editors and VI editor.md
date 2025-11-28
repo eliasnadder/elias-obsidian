@@ -43,7 +43,8 @@ Past: `esc` + `p`
 #### B. Copy multi-lines
 **Copy:** `esc` + `<number of lines - 1>y`
 **Past:** `esc` + `p`
-##### Note
+
+>[!NOTE] Note
 > `esc` + `<number of lines>yy` copy from a line to previous
 #### C. From specified line to the end of the file
 1. Set a pointer on the line
@@ -57,7 +58,8 @@ Past: `esc` + `p`
 #### B. Multi-lines
 1. Set a pointer on the line
 2. `esc` + `<number of lines - 1>d`
-##### Note
+
+>[!NOTE] Note
 > `esc` + `<number of lines>dd` delete from a line to previous
 #### C. From specified line to the end of the file
 1. Set a pointer on the line

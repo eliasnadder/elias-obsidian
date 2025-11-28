@@ -18,9 +18,10 @@ root:x:0:0:root:/root:/bin/bash
 | root             | x                   | 0         | 0        | root                       | /root               | /bin/bash                                     |
 | ---------------- | ------------------- | --------- | -------- | -------------------------- | ------------------- | --------------------------------------------- |
 | name of the user | user has a password | user's ID | group ID | Information about the user | home user directory | default shell that use to execute the command |
-## Note
+>[!Note] Note
 > The `ID` from 0-999 is reserved by the system.
 > All `user's ID` starts from 1000.
+
 ***
 ## 2- Return groups
 

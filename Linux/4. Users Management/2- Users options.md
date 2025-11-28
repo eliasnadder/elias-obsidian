@@ -23,7 +23,8 @@ usermod <username> -g <group-name>
 ```bash
 usermod <username> -G [<group-name>, ...]
 ```
-#### Note
+
+>[!NOTE] Note
 > Make sure to add the primary group as the first group when add another groups
 
 ***

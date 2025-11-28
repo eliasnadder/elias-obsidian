@@ -19,11 +19,11 @@ chmod 640 f1.txt
 ## 2- Change owner
 
 ```bash
-chown <username>[.<group-name>] <file|folder>
+chown <username>:[...<group-name>] <file|folder>
 ```
 ### Example
 ```bash
-chown tech1.teachers f1.txt
+chown tech1:teachers f1.txt
 ```
 ***
 ## 3- Permission by symbols

@@ -11,11 +11,11 @@ setfacl -m u:eng1:rwx f1.txt
 ## 2- To delete access list
 
 ```bash
-setfacl -x u:<username>:<permissions> <file>
+setfacl -x u:<username> <file>
 ```
 ### Example
 ```bash
-setfacl -x u:eng1:rwx t1.txt
+setfacl -x u:eng1 t1.txt
 ```
 ### A- To delete all access lists on file
 
