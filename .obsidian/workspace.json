@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning - DeepLearning/II- Advanced Learning Algorithms/Week 1 - Neural Network/3- TensorFlow implementation/3- Building a neural network.md",
+                "file": "Machine Learning - DeepLearning/II- Advanced Learning Algorithms/Week 1 - Neural Network/4- Neural network implementation in Python/2- General implementation of forward propagation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3- Building a neural network"
+              "title": "2- General implementation of forward propagation"
             }
           },
           {
@@ -106,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "a8880724ffb4511d",
@@ -203,13 +202,19 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "aff0ff52f0f86d72",
+  "active": "8db06bc5cf287400",
   "lastOpenFiles": [
+    "Machine Learning - DeepLearning/II- Advanced Learning Algorithms/Week 1 - Neural Network/6- Vectorization (optional)",
+    "Machine Learning - DeepLearning/II- Advanced Learning Algorithms/Week 1 - Neural Network/5- Speculations on artificial general intelligence (AGI)",
+    "Machine Learning - DeepLearning/Files/II- Advanced Learning Algorithms/C2_W1_Lab03_CoffeeRoasting_Numpy.pdf",
+    "Machine Learning - DeepLearning/II- Advanced Learning Algorithms/Week 1 - Neural Network/4- Neural network implementation in Python/1- Forward prop in a single layer.md",
+    "Machine Learning - DeepLearning/II- Advanced Learning Algorithms/Week 1 - Neural Network/4- Neural network implementation in Python/2- General implementation of forward propagation.md",
+    "Machine Learning - DeepLearning/II- Advanced Learning Algorithms/Week 1 - Neural Network/3- TensorFlow implementation/3- Building a neural network.md",
+    "Machine Learning - DeepLearning/II- Advanced Learning Algorithms/Week 1 - Neural Network/4- Neural network implementation in Python",
     "Machine Learning - DeepLearning/Files/II- Advanced Learning Algorithms/Lab.pdf",
     "Machine Learning - DeepLearning/Files/II- Advanced Learning Algorithms/C2_W1_Lab02_CoffeeRoasting_TF.pdf",
     "Machine Learning - DeepLearning/II- Advanced Learning Algorithms/Week 1 - Neural Network/3- TensorFlow implementation/1- Inference in code.md",
     "Machine Learning - DeepLearning/II- Advanced Learning Algorithms/Week 1 - Neural Network/2- Neural Network model/3- Inference; making predictions (forward propagation).md",
-    "Machine Learning - DeepLearning/II- Advanced Learning Algorithms/Week 1 - Neural Network/3- TensorFlow implementation/3- Building a neural network.md",
     "Linux/5. Files Permissions/4- Special Attributes.md",
     "Linux/Attachments/Files/8.1 7-8-special-attributes@WinDroidSY Telegram.pdf",
     "Linux/Attachments/Files/~$8.1 7-8-special-attributes@WinDroidSY Telegram.pptx",
@@ -230,10 +235,6 @@
     "Linux/5. Files Permissions",
     "Linux.md",
     "Linux/4. Users Management",
-    "Linux/Attachments/Files/1.1 5-1-more-commands@WinDroidSY Telegram.pdf",
-    "Linux/Attachments/Files/~$1.1 5-1-more-commands@WinDroidSY Telegram.pptx",
-    "Linux/Attachments/Files/1.1 5-1-more-commands@WinDroidSY Telegram.pptx",
-    "Linux/Attachments/Files",
     "Machine Learning - DeepLearning/II- Advanced Learning Algorithms/Week 1 - Neural Network/2- Neural Network model/1- Neural network layer.md",
     "Machine Learning - DeepLearning/Files/Coursera Advanced Learning Algorithms Extras 2022-12/w4/images/9.png",
     "Machine Learning - DeepLearning/Files/Coursera Advanced Learning Algorithms Extras 2022-12/w4/images/8.png",
@@ -248,8 +249,6 @@
     "Machine Learning - DeepLearning/II- Advanced Learning Algorithms/Week 1 - Neural Network/2- Neural Network model/2- More complex neural networks.md",
     "Machine Learning - DeepLearning/II- Advanced Learning Algorithms/Week 1 - Neural Network/1- Neural networks intuition/2- Demand Prediction.md",
     "Lec 2.md",
-    "Machine Learning - DeepLearning/II- Advanced Learning Algorithms/Week 1 - Neural Network/1- Neural networks intuition/3- Example- Recognizing Images.md",
-    "NN/Lec 2.md",
-    "Smart algorithm/Lec-1.md"
+    "Machine Learning - DeepLearning/II- Advanced Learning Algorithms/Week 1 - Neural Network/1- Neural networks intuition/3- Example- Recognizing Images.md"
   ]
 }
