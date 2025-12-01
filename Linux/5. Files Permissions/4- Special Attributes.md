@@ -15,7 +15,7 @@ chattr +a <file>
 ```
 
 >[!NOTE] Note
->And to add to the file
+>And to add at the end of file
 > `echo "Text" >> <file>`
 
 ---

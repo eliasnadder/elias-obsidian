@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning - DeepLearning/II- Advanced Learning Algorithms/Week 1 - Neural Network/4- Neural network implementation in Python/2- General implementation of forward propagation.md",
+                "file": "Linux/6. Scripts/4- Numbers comparison.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2- General implementation of forward propagation"
+              "title": "4- Numbers comparison"
             }
           },
           {
@@ -106,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "a8880724ffb4511d",
@@ -202,23 +203,30 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "8db06bc5cf287400",
+  "active": "aff0ff52f0f86d72",
   "lastOpenFiles": [
+    "Linux/6. Scripts/3- Read the user input.md",
+    "Linux/6. Scripts/4- Numbers comparison.md",
+    "Linux/6. Scripts/2- Reading variables and parameters.md",
+    "Linux/6. Scripts/1- Intro.md",
+    "Linux/5. Files Permissions/5- Sticky Bit ,SUID and SGID.md",
+    "Linux/6. Scripts",
+    "Linux/Attachments/Files/9.1 7-9-stickyBit-SGID-SUID@WinDroidSY Telegram.pdf",
+    "Linux/5. Files Permissions/4- Special Attributes.md",
+    "Linux/5. Files Permissions/3- File access lists.md",
+    "Machine Learning - DeepLearning/II- Advanced Learning Algorithms/Week 1 - Neural Network/4- Neural network implementation in Python/2- General implementation of forward propagation.md",
     "Machine Learning - DeepLearning/II- Advanced Learning Algorithms/Week 1 - Neural Network/5- Vectorization (optional)",
     "Machine Learning - DeepLearning/II- Advanced Learning Algorithms/Week 1 - Neural Network/5- Speculations on artificial general intelligence (AGI)",
     "Machine Learning - DeepLearning/Files/II- Advanced Learning Algorithms/C2_W1_Lab03_CoffeeRoasting_Numpy.pdf",
     "Machine Learning - DeepLearning/II- Advanced Learning Algorithms/Week 1 - Neural Network/4- Neural network implementation in Python/1- Forward prop in a single layer.md",
-    "Machine Learning - DeepLearning/II- Advanced Learning Algorithms/Week 1 - Neural Network/4- Neural network implementation in Python/2- General implementation of forward propagation.md",
     "Machine Learning - DeepLearning/II- Advanced Learning Algorithms/Week 1 - Neural Network/3- TensorFlow implementation/3- Building a neural network.md",
     "Machine Learning - DeepLearning/II- Advanced Learning Algorithms/Week 1 - Neural Network/4- Neural network implementation in Python",
     "Machine Learning - DeepLearning/Files/II- Advanced Learning Algorithms/Lab.pdf",
     "Machine Learning - DeepLearning/Files/II- Advanced Learning Algorithms/C2_W1_Lab02_CoffeeRoasting_TF.pdf",
     "Machine Learning - DeepLearning/II- Advanced Learning Algorithms/Week 1 - Neural Network/3- TensorFlow implementation/1- Inference in code.md",
     "Machine Learning - DeepLearning/II- Advanced Learning Algorithms/Week 1 - Neural Network/2- Neural Network model/3- Inference; making predictions (forward propagation).md",
-    "Linux/5. Files Permissions/4- Special Attributes.md",
     "Linux/Attachments/Files/8.1 7-8-special-attributes@WinDroidSY Telegram.pdf",
     "Linux/Attachments/Files/~$8.1 7-8-special-attributes@WinDroidSY Telegram.pptx",
-    "Linux/Attachments/Files/8.1 7-8-special-attributes@WinDroidSY Telegram.pptx",
     "Linux/1. FHS and Basic Commands/Lec 3 - ls in details.md",
     "Linux/1. FHS and Basic Commands/Lec 2 - Basic command.md",
     "Linux/1. FHS and Basic Commands/Lec 1 - Linux FHS (File system Hierarchy Standard).md",
@@ -228,13 +236,10 @@
     "Linux/4. Users Management/1- Main files.md",
     "Linux/4. Users Management/2- Users options.md",
     "Linux/4. Users Management/3- Delete users & groups.md",
-    "Linux/5. Files Permissions/3- File access lists.md",
     "Linux/5. Files Permissions/2- Permission on folders & additional hints.md",
     "Linux/5. Files Permissions/1- Permissions.md",
     "Machine Learning - DeepLearning/II- Advanced Learning Algorithms/Week 1 - Neural Network/3- TensorFlow implementation/2- Data in TensorFlow.md",
-    "Linux/5. Files Permissions",
     "Linux.md",
-    "Linux/4. Users Management",
     "Machine Learning - DeepLearning/II- Advanced Learning Algorithms/Week 1 - Neural Network/2- Neural Network model/1- Neural network layer.md",
     "Machine Learning - DeepLearning/Files/Coursera Advanced Learning Algorithms Extras 2022-12/w4/images/9.png",
     "Machine Learning - DeepLearning/Files/Coursera Advanced Learning Algorithms Extras 2022-12/w4/images/8.png",
@@ -245,10 +250,6 @@
     "Machine Learning - DeepLearning/Files/Coursera Advanced Learning Algorithms Extras 2022-12/w4/images/3.png",
     "Machine Learning - DeepLearning/Files/Coursera Advanced Learning Algorithms Extras 2022-12/w4/images/1.png",
     "Machine Learning - DeepLearning/Files/Coursera Advanced Learning Algorithms Extras 2022-12/w4/images/2.png",
-    "Machine Learning - DeepLearning/Files/Coursera Advanced Learning Algorithms Extras 2022-12/w4/images/0.png",
-    "Machine Learning - DeepLearning/II- Advanced Learning Algorithms/Week 1 - Neural Network/2- Neural Network model/2- More complex neural networks.md",
-    "Machine Learning - DeepLearning/II- Advanced Learning Algorithms/Week 1 - Neural Network/1- Neural networks intuition/2- Demand Prediction.md",
-    "Lec 2.md",
-    "Machine Learning - DeepLearning/II- Advanced Learning Algorithms/Week 1 - Neural Network/1- Neural networks intuition/3- Example- Recognizing Images.md"
+    "Machine Learning - DeepLearning/Files/Coursera Advanced Learning Algorithms Extras 2022-12/w4/images/0.png"
   ]
 }
