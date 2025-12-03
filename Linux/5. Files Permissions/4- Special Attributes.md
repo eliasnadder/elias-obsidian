@@ -18,7 +18,10 @@ chattr +a <file>
 >And to add at the end of file
 > `echo "Text" >> <file>`
 
----
+> [!ERROR]
+> If the file has attribute `i` and `a`, cannot append to the file
+
+***
 ## 2- Show attribute
 
 ```bash
