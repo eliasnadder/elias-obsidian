@@ -13,22 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning - DeepLearning/II- Advanced Learning Algorithms/Week 2 -/Untitled/5- Why do we need activation functions.md",
+                "file": "Machine Learning - DeepLearning/II- Advanced Learning Algorithms/Week 2 - Neural Network Training/3- Multiclass Classification/2- Softmax.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5- Why do we need activation functions"
+              "title": "2- Softmax"
             }
           },
           {
             "id": "d6d463ef8c737093",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Machine Learning - DeepLearning/I- Supervised Learning/Week 3/3- Cost function for logistic regression/1- Simplified Cost function for Logistic regression.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "1- Simplified Cost function for Logistic regression"
             }
           }
         ]
@@ -187,15 +191,20 @@
   },
   "active": "48218a71aab1048e",
   "lastOpenFiles": [
-    "Machine Learning - DeepLearning/II- Advanced Learning Algorithms/Week 2 -/Untitled/4- Choosing activation functions.md",
-    "Machine Learning - DeepLearning/II- Advanced Learning Algorithms/Week 2 -/Untitled/5- Why do we need activation functions.md",
-    "Machine Learning - DeepLearning/II- Advanced Learning Algorithms/Week 2 -/Untitled/3- Alternatives to the sigmoid activation.md",
+    "Machine Learning - DeepLearning/I- Supervised Learning/Week 3/3- Cost function for logistic regression/1- Simplified Cost function for Logistic regression.md",
+    "Machine Learning - DeepLearning/II- Advanced Learning Algorithms/Week 2 - Neural Network Training/3- Multiclass Classification/2- Softmax.md",
+    "Machine Learning - DeepLearning/II- Advanced Learning Algorithms/Week 2 - Neural Network Training/3- Multiclass Classification/1- Multiclass.md",
+    "Machine Learning - DeepLearning/II- Advanced Learning Algorithms/Week 2 - Neural Network Training/2- Activation Functions/3- Why do we need activation functions.md",
+    "Machine Learning - DeepLearning/II- Advanced Learning Algorithms/Week 2 - Neural Network Training/3- Multiclass Classification",
+    "Machine Learning - DeepLearning/II- Advanced Learning Algorithms/Week 2 - Neural Network Training/2- Activation Functions/2- Choosing activation functions.md",
+    "Machine Learning - DeepLearning/II- Advanced Learning Algorithms/Week 2 - Neural Network Training/2- Activation Functions/1- Alternatives to the sigmoid activation.md",
+    "Machine Learning - DeepLearning/II- Advanced Learning Algorithms/Week 2 - Neural Network Training/2- Activation Functions",
     "Machine Learning - DeepLearning/imgs/II- Adavnced learning algorithms/Screenshot 2025-12-13 170527.png",
     "Machine Learning - DeepLearning/imgs/II- Adavnced learning algorithms/Screenshot 2025-12-13 165758.png",
-    "Machine Learning - DeepLearning/II- Advanced Learning Algorithms/Week 2 -/Untitled/2- Training Details.md",
+    "Machine Learning - DeepLearning/II- Advanced Learning Algorithms/Week 2 - Neural Network Training/1- Neural Network Training/2- Training Details.md",
     "Machine Learning - DeepLearning/II- Advanced Learning Algorithms/Week 1 - Neural Network/4- Neural network implementation in Python/2- General implementation of forward propagation.md",
     "Machine Learning - DeepLearning/II- Advanced Learning Algorithms/Week 1 - Neural Network/4- Neural network implementation in Python/1- Forward prop in a single layer.md",
-    "Machine Learning - DeepLearning/II- Advanced Learning Algorithms/Week 2 -/Untitled/1- TensorFlow implementation.md",
+    "Machine Learning - DeepLearning/II- Advanced Learning Algorithms/Week 2 - Neural Network Training/1- Neural Network Training/1- TensorFlow implementation.md",
     "Untitled.base",
     "Smart algorithm/1- Graph.md",
     "Smart algorithm/imgs/Screenshot 2025-12-07 213633.png",
@@ -208,7 +217,6 @@
     "New folder",
     "Smart algorithm/Untitled.md",
     "Machine Learning - DeepLearning/I- Supervised Learning/Week 3/4- Gradient descent/1- Gradient Descent.md",
-    "Machine Learning - DeepLearning/I- Supervised Learning/Week 3/3- Cost function for logistic regression/1- Simplified Cost function for Logistic regression.md",
     "Machine Learning - DeepLearning/II- Advanced Learning Algorithms/Week 1 - Neural Network/3- TensorFlow implementation/3- Building a neural network.md",
     "Machine Learning - DeepLearning/II- Advanced Learning Algorithms/Week 1 - Neural Network/2- Neural Network model/3- Inference; making predictions (forward propagation).md",
     "Machine Learning - DeepLearning/II- Advanced Learning Algorithms/Week 1 - Neural Network/3- TensorFlow implementation/2- Data in TensorFlow.md",
@@ -217,19 +225,15 @@
     "Machine Learning - DeepLearning/II- Advanced Learning Algorithms/Week 1 - Neural Network/1- Neural networks intuition/2- Demand Prediction.md",
     "Machine Learning - DeepLearning/II- Advanced Learning Algorithms/Week 1 - Neural Network/1- Neural networks intuition/3- Example- Recognizing Images.md",
     "Linux/6. Scripts/6- Checking command result.md",
-    "Machine Learning - DeepLearning/II- Advanced Learning Algorithms/Week 2 -/Untitled",
-    "Machine Learning - DeepLearning/II- Advanced Learning Algorithms/Week 2 -",
+    "Machine Learning - DeepLearning/II- Advanced Learning Algorithms/Week 2 - Neural Network Training/1- Neural Network Training",
+    "Machine Learning - DeepLearning/II- Advanced Learning Algorithms/Week 2 - Neural Network Training",
     "Linux/6. Scripts/5- String comparison.md",
     "Linux/6. Scripts/4- Numbers comparison.md",
     "Linux/6. Scripts/3- Read the user input.md",
     "Linux/6. Scripts/2- Reading variables and parameters.md",
     "Linux/6. Scripts/1- Intro.md",
-    "Linux/5. Files Permissions/5- Sticky Bit ,SUID and SGID.md",
-    "Linux/5. Files Permissions/4- Special Attributes.md",
     "Linux/6. Scripts",
     "Linux/Attachments/Files/9.1 7-9-stickyBit-SGID-SUID@WinDroidSY Telegram.pdf",
-    "Machine Learning - DeepLearning/II- Advanced Learning Algorithms/Week 1 - Neural Network/5- Vectorization (optional)",
-    "Machine Learning - DeepLearning/II- Advanced Learning Algorithms/Week 1 - Neural Network/5- Speculations on artificial general intelligence (AGI)",
     "Machine Learning - DeepLearning/Files/Coursera Advanced Learning Algorithms Extras 2022-12/w4/images/9.png",
     "Machine Learning - DeepLearning/Files/Coursera Advanced Learning Algorithms Extras 2022-12/w4/images/8.png",
     "Machine Learning - DeepLearning/Files/Coursera Advanced Learning Algorithms Extras 2022-12/w4/images/7.png"

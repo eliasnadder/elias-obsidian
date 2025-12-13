@@ -1,12 +1,12 @@
 #### $$
-L(f_{\mathbf{w},b}(\mathbf{x}^{(i)}), y^{(i)}) =
+L(f_{w,b}(x^{(i)}), y^{(i)}) =
 \begin{cases}
-- \log(f_{\mathbf{w},b}(\mathbf{x}^{(i)})), & \text{if } y^{(i)} = 1 \\
-- \log(1 - f_{\mathbf{w},b}(\mathbf{x}^{(i)})), & \text{if } y^{(i)} = 0
+- \log(f_{w,b}(x^{(i)})), & \text{if } y^{(i)} = 1 \\
+- \log(1 - f_{w,b}(x^{(i)})), & \text{if } y^{(i)} = 0
 \end{cases}
 $$
 Given a predication  $f_{\mathbf{w},b}(\mathbf{x}^{(i)})$ and the target $\mathbf{y}^{(i)}$ 
-### $$L(f_{\mathbf{w},b}(\mathbf{x}^{(i)}), y^{(i)}) = -\mathbf{y}^{(i)}log(f_{\mathbf{w},b}(\mathbf{x}^{(i)})) - (1-\mathbf{y}^{(i)})log(1-f_{\mathbf{w},b}(\mathbf{x}^{(i)}))$$
+### $$L(f_{w,b}(x^{(i)}), y^{(i)}) = -y^{(i)}log(f_{w,b}(x^{(i)})) - (1-y^{(i)})log(1-f_{w,b}(x^{(i)}))$$
 
 ^30d476
 
